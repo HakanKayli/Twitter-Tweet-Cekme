@@ -1,6 +1,6 @@
 
 '''
-     Hakan KAYLI
+    author Hakan KAYLI
 '''
 
 import snscrape.modules.twitter as sntwitter
