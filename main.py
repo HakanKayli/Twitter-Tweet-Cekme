@@ -1,6 +1,6 @@
 
 '''
-    author Senanur PAKSOY  Zeynep UĞUR  Hakan KAYLI
+     Hakan KAYLI
 '''
 
 import snscrape.modules.twitter as sntwitter
